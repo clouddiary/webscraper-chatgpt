@@ -12,4 +12,4 @@ WOW!! ChatGPT really amazed me with its power. See attached PDF document where I
 2) I encountered few issues for which I asked ChatGPT for help. it provided nice guidance to overcome.
 3) Last I asked to write a unit
 
-![This is an image](https://github.com/clouddiary/webscraper-chatgpt/blob/master/code-snippet.JPG)
+![This is an image](https://raw.githubusercontent.com/clouddiary/webscraper-chatgpt/master/code-snippet.JPG)
