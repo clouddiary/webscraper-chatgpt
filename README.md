@@ -1,8 +1,6 @@
 # webscraper-chatgpt
 
-Web scraping is the process of automatically extracting data from websites using scripts. ChatGPT is able to generate the web scraping script code for you by just providing instructions.
-
-WOW!! ChatGPT really amazed me with its power. See attached PDF document where I instructed CHATGPT & it auto generated complete code for me. 
+WOW!! ChatGPT really amazed me with its power. See attached PDF document where I instructed CHATGPT & it auto generated complete code for me. Web scraping is a process of automatically extracting data from websites using scripts. 
 
 1) I asked ChatGPT to generate code for webscrapping a dummpy book site : https://books.toscrape.com/
   - ChatGPT first generated full code to dispaly scrapped output on screen.
